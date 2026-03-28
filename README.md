@@ -1,5 +1,7 @@
 # Atividade 02  de Flexbox
 
+Utilizando o repositório https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-02 como apoio e fazendo mudanças autorais.
+
 ## Exercícios:
 
 ### A) Organize os elementos de classe "container1" até "container6", para que os itens fiquem como o exemplo abaixo:
